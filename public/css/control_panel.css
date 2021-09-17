@@ -1,0 +1,67 @@
+
+
+.control_panel_headline{
+	width: 100%; background-color:black; border-bottom: 1px solid #BA2F11;
+}
+
+.control_panel_headline a{
+	color: white; text-decoration: none; margin: 5px 10px 5px 10px;
+}
+
+.control_panel_headline a img{
+	 margin: 5px;
+}
+
+
+.control_panel_headline  a:hover{
+	color: #BA2F11; text-decoration: none;
+}
+
+.create_options {
+	background-color: #343a40; border-bottom: 1px solid #BA2F11;
+ }
+
+ .for_options {
+ 	margin: 25px 0px 25px 0px;
+ }
+
+ .for_options a {
+ 	padding: 20px 5px 20px 5px; text-decoration: none;
+ 	color: white;
+ }
+
+ .for_options a:hover {
+ 	color: white; text-decoration: none; border: 2px solid #BA2F11;
+ } 
+
+#showProjects
+ {	display: none;
+}
+
+ .projects_list {
+ 	padding: 10px; border-bottom: 1px solid black;
+ }
+
+ .projects_list a{
+ 	text-decoration: none; color: black;
+ }
+
+  .projects_list a:hover{
+ 	text-decoration: none; color: white;
+ }
+
+ .projects_list:hover {
+ 	 background-color: #BA2F11;
+ }
+
+ #showLessons
+ {	display: none;
+}
+
+
+
+
+
+
+
+

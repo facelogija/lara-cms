@@ -1,0 +1,11 @@
+
+.live_review {
+    border-radius: 5px;
+    border: 2px solid darkgrey;
+}
+
+/*to set pointer cursor on table row*/
+tr.cursor_pointer {
+	cursor: pointer;
+}
+
